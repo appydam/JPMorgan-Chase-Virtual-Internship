@@ -1,7 +1,3 @@
-From ac31c7ef4564a3299263666f3c7bba833d73eb42 Mon Sep 17 00:00:00 2001
-From: Chandrika Deb <chandrikadeb7@gmail.com>
-Date: Tue, 5 May 2020 11:33:07 +0530
-Subject: [PATCH] reate patch file
 
 ---
  node_modules.zip | Bin 0 -> 109310732 bytes
@@ -118,10 +114,7 @@ index ec1430e..79094d5 100644
 +      {"stock": "discount count",
 +      "top_ask_price":"avg",
 +      "top_bid_price": "avg",
-+      "timestamp":"distinct count"}`)
+     "timestamp":"distinct count"}`)
      }
    }
  
--- 
-2.17.2 (Apple Git-113)
-
